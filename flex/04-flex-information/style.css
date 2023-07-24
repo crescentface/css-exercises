@@ -12,6 +12,8 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  align-items: center;
+  margin-bottom: 32px;
 }
 
 .plants {
@@ -23,6 +25,8 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
+  gap: 52px;
+  width: 200px; 
 }
 
 /* do not edit this footer */
